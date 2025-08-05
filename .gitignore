@@ -21,3 +21,5 @@ doc/_build/
 doc/api/
 doc/auto_examples/
 doc/modules/
+
+p2p/
